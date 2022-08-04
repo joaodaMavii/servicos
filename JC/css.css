@@ -1,0 +1,30 @@
+h1 { 
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center; 
+justify-content: center;
+font-size: 70px;
+}
+h2 { 
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+}
+
+body{
+    background-color: white;
+ 
+    background-image: url(imagens/imagemm.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center center;
+    background-attachment:fixed
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+ul{
+    font-size: 20px;
+}
+
+   
+
